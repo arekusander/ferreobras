@@ -92,12 +92,12 @@ flex-wrap: wrap;
     outline: none;
     border-radius: 10px;
     font-size: 16px;
-    color: #e3e3e3;
+    color: #fff;
     padding: 15px 15px 15px 40px;
 }
 
 .caja-campos .campos-formulario input::placeholder{
-    color: #f17e04;
+    color: #fff;
 }
 
 .caja-campos .campos-formulario i {
